@@ -1,0 +1,27 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>DISTRITOS</Name>
+    <ElementPath>DISTRITOS</ElementPath>
+    <!--POLYGON-->
+    <GeometryType>3</GeometryType>
+    <SRSName>EPSG:25830</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>22</FeatureCount>
+      <ExtentXMin>720568.52500</ExtentXMin>
+      <ExtentXMax>735019.03200</ExtentXMax>
+      <ExtentYMin>4351267.53400</ExtentYMin>
+      <ExtentYMax>4383096.88400</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>nombre</Name>
+      <ElementPath>nombre</ElementPath>
+      <Type>String</Type>
+      <Width>17</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>coddistrit</Name>
+      <ElementPath>coddistrit</ElementPath>
+      <Type>Integer</Type>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>
