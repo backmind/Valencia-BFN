@@ -2,6 +2,13 @@
 
 This repository contains the project files for the IBM Data Science Professional Certificate capstone project titled **"Analyzing Socioeconomic Indicators for Relocation Recommendations in Valencia"** by Yasser Fuentes-Edfuf.
 
+## Jump directly to the results
+
+If you wish, you can go directly to the
+- [Jupyter Notebook](https://github.com/backmind/Valencia-BFN/blob/main/notebooks/Battle%20of%20the%20Neighborhoods.ipynb)
+- [PDF Report](https://github.com/backmind/Valencia-BFN/blob/main/report/Battle%20of%20the%20Neighborhoods.pdf)
+- [Powerpoint Presentation](https://github.com/backmind/Valencia-BFN/blob/main/report/Presentation%20Battle%20of%20Valencia%20Neighborhoods.pdf)
+
 ## Introduction
 
 This project aims to analyze various socioeconomic indicators in the city of Valencia, Spain, to provide relocation recommendations for new employees of a business expanding its operations in the city. The goal is to help prospective employees find suitable neighborhoods based on their socioeconomic conditions and preferences.
