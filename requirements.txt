@@ -3,7 +3,7 @@
 branca==0.7.2
 bs4==0.0.2
 folium==0.16.0
-geopandas==0.14.4
+geopandas==1.1.2
 html5lib==1.1
 ipython==8.24.0
 matplotlib==3.9.0
